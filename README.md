@@ -1,7 +1,7 @@
 # PDF-Speech-RAG
 A speech-enabled Q&amp;A system using RAG and FAISS to answer questions from PDFs. Converts speech to text, fetches relevant information, and responds with synthesized speech.
 
-#Features
+# Features
 
 Speech-to-text for user queries
 
@@ -9,7 +9,7 @@ PDF-based RAG for context-aware answers
 
 Text-to-speech response
 
-#Setup
+# Setup
 Set Your OpenAI API Key:
 
 Replace [your api key] in the code with your actual OpenAI API key.
